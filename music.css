@@ -1,0 +1,22 @@
+*{
+    background-color: rgba(255, 127, 80, 0.575);
+}
+
+
+.con3{
+    color: rgba(0, 0, 255, 0.701);
+}
+li{
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+li:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+ul{
+    padding-left: 400px;
+    margin-left: 400px;
+}
+
